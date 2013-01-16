@@ -1,7 +1,7 @@
 === Xmas Snow ===
 
 Contributors: graphicedit
-Donate link: http://www.graphicedit.com/
+Donate link: http://graphicedit.com/
 Tags: Christmas Snow, Christmas, winter, xhristmas Snow, Xmas, 
 Requires at least: 3.0
 Tested up to: 3.0
@@ -13,7 +13,7 @@ Add nice looking animated Xhristmas(Christmas) Snow to the top of site.
 
 Add nice looking animated Xhristmas(Christmas) Snow to the top of site. 
 
-Links: [Author Homepage](http://www.graphicedit.com/)
+Links: [Author Homepage](http://graphicedit.com/)
 
 == Installation ==
 
